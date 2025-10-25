@@ -2,10 +2,22 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/data/northwind.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/data/sample_data/actors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/sample_data/customers.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/data/sample_data/directors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/sample_data/hr.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/data/sample_data/movies.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/data/sample_data/movies_actors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/data/sample_data/movies_revenues.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/sample_data/products.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/sample_data/purchases.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/filtering/fetch.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/actor.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/customers.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/directors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/movies.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/movies_actors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/tables/movies_revenues.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ae137f8-4a15-4d0c-a90b-3e68d0111a9e/console.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 -- ---------------------------------------------------------
 --  Records of 'movies' database > table : movies_revenues
 -- ---------------------------------------------------------
-INSERT INTO movies_revenues (revenue_id,movie_id,revenues_domestic,revenues_international) VALUES
+INSERT INTO movies_revenues (id,movie_id,revenues_domestic,revenues_international) VALUES
 ('1','45','22.2','1.3'),
 ('2','13','199.4','201.2'),
 ('3','23','102.1',NULL),
