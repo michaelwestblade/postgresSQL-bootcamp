@@ -15,3 +15,8 @@ select cast('true' as boolean),
 select '10'::integer, '2020-01-01'::date, '2020-01-01 12:00:00'::timestamp, 'true'::boolean;
 
 select '10 minutes'::interval, '4 hours'::interval, '1 day'::interval, '1 week'::interval, '1 month'::interval;
+
+select round(10,4) as "result";
+select round(cast(10 as numeric),4) as "result";
+
+select substring('1234567890' from 2 for 3) as "result";
