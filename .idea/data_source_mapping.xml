@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/constraints/check.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/constraints/not_null.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/constraints/unique.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/conversion/conversion.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/northwind.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/data/sample_data/actors.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
@@ -22,7 +25,6 @@
     <file url="file://$PROJECT_DIR$/user_defined_data/composite.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/user_defined_data/domain.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/user_defined_data/enum.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ae137f8-4a15-4d0c-a90b-3e68d0111a9e/console.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ae137f8-4a15-4d0c-a90b-3e68d0111a9e/console_1.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
   </component>
 </project>
