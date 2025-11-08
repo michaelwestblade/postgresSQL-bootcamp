@@ -17,6 +17,12 @@
     <file url="file://$PROJECT_DIR$/data/sample_data/purchases.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/filtering/fetch.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/sequences/sequences.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/left_right.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/pad.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/reverse.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/split.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/trim.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/strings/upper_lower.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/tables/actor.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/tables/customers.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/tables/directors.sql" dialect="PostgreSQL" />
