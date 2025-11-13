@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/aggregate/count.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/aggregate/minmax.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
+    <file url="file://$PROJECT_DIR$/aggregate/sum.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/constraints/check.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/constraints/not_null.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
     <file url="file://$PROJECT_DIR$/constraints/unique.sql" value="5ae137f8-4a15-4d0c-a90b-3e68d0111a9e" />
